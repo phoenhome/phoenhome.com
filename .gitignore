@@ -1,0 +1,7 @@
+# .gitignore
+
+# Mac OS X
+.DS_Store
+
+# Jetbrains IDE
+.idea
